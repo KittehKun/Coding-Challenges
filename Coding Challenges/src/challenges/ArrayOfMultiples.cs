@@ -1,5 +1,8 @@
 ﻿namespace Coding_Challenges.src.challenges
 {
+    /// <summary>
+    /// Challenge sourced from https://edabit.com/challenge/2QvnWexKoLfcJkSsc
+    /// </summary>
     internal class ArrayOfMultiples
     {
         /// <summary>
