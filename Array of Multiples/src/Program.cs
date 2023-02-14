@@ -7,5 +7,4 @@ internal class Program
         Console.WriteLine("[" + ArrayOfMultiples.Multiples(2, 5) + "]");
     }
 
-
 }
