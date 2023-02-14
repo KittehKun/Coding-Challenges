@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding Challenges", "Array of Multiples\Coding Challenges.csproj", "{95A754EE-B3D5-4388-866A-741148557CB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding Challenges", "Coding Challenges\Coding Challenges.csproj", "{95A754EE-B3D5-4388-866A-741148557CB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
